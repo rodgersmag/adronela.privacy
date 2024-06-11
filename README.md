@@ -29,7 +29,7 @@ We use the information we collect to:
 
 ## 3. Data Storage and Security
 
-We use Firebase for data storage. Firebase provides secure storage and robust data security measures to protect your information. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+We use Firebase for data storage and authentication. Firebase provides secure storage and robust data security measures to protect your information. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. For more information please refer to the firebase privacy policy here: https://firebase.google.com/support/privacy
 
 ## 4. Sharing Your Information
 
